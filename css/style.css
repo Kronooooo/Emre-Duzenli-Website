@@ -5,6 +5,7 @@
 
 html {
     height: 100%;
+    font-size: calc(1em + 1vw);
 }
 
 body {
@@ -24,7 +25,6 @@ body {
 #about {
     font-family: 'Crimson Text', sans-serif;
     margin-right: 50vw;
-    font-size: 3vw;
     color: whitesmoke;
     background-color: rgba(0,0,0,0.5);
     padding: 1.5vw;
@@ -56,7 +56,6 @@ a {
     display: block;
     margin-top: 0.5vw;
     padding: 2.5vw;
-    font-size: 2.5vw;
     text-decoration: none;
     color: black;
 }
