@@ -7,6 +7,10 @@ html, body {
     height: 100%;
 }
 
+html {
+    font-family: calc(1em + 1vw);
+}
+
 body {
     min-height: 90vh;
     background-color: #ABCDEF;
@@ -47,7 +51,7 @@ header a {
     position: absolute;
     color: black;
     font-family: 'Mate SC';
-    font-size: 2vw;
+    font-size: 3em;
 }
 
 a::visited{
