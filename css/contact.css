@@ -94,6 +94,10 @@ footer {
     font-family: 'Mate SC';
 }
 
+header {
+    margin-top: 2vw;
+}
+
 header a {
     padding: 2vw;
     text-decoration: none;
